@@ -1,1 +1,1 @@
-const app = "I don't do much.";
+const app = "Why is this even a lab?";
